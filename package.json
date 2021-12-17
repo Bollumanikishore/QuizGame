@@ -1,0 +1,16 @@
+{
+  "name": "quizgame",
+  "version": "1.0.0",
+  "description": "i have tried to create my first basic game with basic JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10",
+    "require": "^2.4.20"
+  }
+}
